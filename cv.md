@@ -58,6 +58,11 @@ function bouncer(arr) {
   return resultArr;
 }
 ```
-[Опыт работы
-Образование
+## Courses and Projects
+* Responsive Web Design Certification ([freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/))
+* JavaScript Algorithms and Data Structures  ([freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/))
+* HTML и CSS. Профессиональная вёрстка сайтов ([html-academy](https://htmlacademy.ru/study))
+##  Education
+**2017-2021**: Bachelor's Degree in Philosophy (*Saint-Petersburg State University*)
+[
 Языки]: #
