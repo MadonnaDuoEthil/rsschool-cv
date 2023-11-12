@@ -64,5 +64,7 @@ function bouncer(arr) {
 * HTML и CSS. Профессиональная вёрстка сайтов ([html-academy](https://htmlacademy.ru/study))
 ##  Education
 **2017-2021**: Bachelor's Degree in Philosophy (*Saint-Petersburg State University*)
-[
-Языки]: #
+## Languages
+* *Russian*: Native
+* *English:* **B2-C1** level
+* *French:* **A1-A2** level
